@@ -4,6 +4,8 @@ Welcome to my world! 🧩 Currently as a data scientist with 2 years of full-tim
 
 I can be reached at Kaylafei1119@gmail.com, tf2550@columbia.edu, or [LinkedIn](https://www.linkedin.com/in/kayla-fei-1b92961a2/)
 
+### DS Knowledge Site
+Data Science Experimentation & Causal Inference Wiki page: [link](https://wheat-lip-13c.notion.site/DS-Wikipedia-Experimentation-22a2d6e7c53180a98150c9ca06f7f302)
 
 ### Project Portfolio
 #### Markup-Based Segmentation of MnA Agreements
